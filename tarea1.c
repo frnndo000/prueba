@@ -18,4 +18,4 @@ void mostrarMenuPrincipal() {
   puts("6) Salir");
 }
 
-print("hola piero")
+print("hola piero") ;
